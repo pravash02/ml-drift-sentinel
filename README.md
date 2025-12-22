@@ -12,7 +12,7 @@ Think of it as a mini-DataDog for ML models.
 - Alerting via webhooks/email
 
 ## Tech Stack:
-- Backend: FastAPI (Python 3.11)
+- Backend: FastAPI (Python 3.12)
 - Data Processing: Pandas, SciPy (for drift tests)
 - Storage: SQLite (start simple, easy to upgrade)
 - Testing: Pytest, pytest-cov
